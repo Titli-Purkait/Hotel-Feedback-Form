@@ -12,8 +12,7 @@ A modern and animated hotel feedback form built using pure HTML and CSS. This pr
 
 ## 🚀 Live Demo
 
-🔗 [View Live](https://titli-purkait.github.io/hotel-feedback-form/)  
-*(Replace with your actual link if different)*
+🔗 [View Live](https://titli-purkait.github.io/Hotel-Feedback-Form/)
 
 ## 🛠 Technologies Used
 
